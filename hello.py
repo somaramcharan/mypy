@@ -8,5 +8,5 @@ print('c=>',c)
 print('d=>',d)
 #b=400
 print(b)
-
- 
+a='ram charan is good boy'
+print(a)
