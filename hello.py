@@ -7,6 +7,6 @@ print('c=>',c)
 #a+=200
 print('d=>',d)
 #b=400
-#print(b)
+print(b)
 
  
